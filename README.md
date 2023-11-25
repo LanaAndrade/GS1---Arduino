@@ -18,7 +18,7 @@ Os valores de temperatura e umidade são exibidos no monitor há cada 5 segundos
 * 1 LED Vermelho (Sensor de movimento ativado)
 * 1 LED Verde (Normal)
 * 1 DHT22 (Sensor de humidade e temperatura)
-* 1 Buzzer (Utilizado para soar um aviso sonoro em caso do estado estar Crítico ou em Alerta)
+* 1 Buzzer (Utilizado para soar um aviso sonoro em caso de a temperatura ou umidade estiverem fora do normal)
 * 1 Display LCD
 * 1 Sensor de movimento
 * 3 Resistores de 1kΩ
