@@ -27,8 +27,7 @@ O projeto foi desenvolvido utilizando a plataforma Wokwi para a montagem do esqu
 [Link para o simulador](https://wokwi.com/projects/379966980664468481)
 
 ### Vídeo do Projeto
-<a href="https://www.youtube.com/watch?v=Vo5QHUxvhsI"><img src="![image](https://github.com/LanaAndrade/GS1---Arduino/assets/82892986/b5652e14-5bc1-4f67-82b3-78f0c200507a)
-" alt="Whats-App-Image-2023-10-30-at-19-44-49" border="0"></a>
+<a href="https://www.youtube.com/watch?v=Vo5QHUxvhsI"><img src="https://github.com/LanaAndrade/GS1---Arduino/assets/82892986/d7bb5aed-ddac-4da3-8c29-ff89998d48be" alt="Whats-App-Image-2023-10-30-at-19-44-49" border="0"></a>
 
 ## Desenvolvedores
 
