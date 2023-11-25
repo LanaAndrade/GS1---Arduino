@@ -2,7 +2,7 @@
 
 > Status: Developed
 
-![image](![image](https://github.com/LanaAndrade/GS1---Arduino/assets/82892986/d7bb5aed-ddac-4da3-8c29-ff89998d48be))
+![image](https://github.com/LanaAndrade/GS1---Arduino/assets/82892986/d7bb5aed-ddac-4da3-8c29-ff89998d48be)
 
 O caso apresentado trata-se de uma vinheira que deseja simular uma experiência web similar a experiência real. Para isso, foi utilizado um Arduino Uno para simular o monitoramento da qualidade dos vinhos, garantindo a suavidade do calor e da iluminação, assim como níveis adequados de humidade.
 
